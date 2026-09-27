@@ -6,8 +6,6 @@
 
 ### A passionate Data Analyst & Data | Analytics Engineer from India
 
-![Profile views](https://komarev.com/ghpvc/?username=pranavvv44&color=blue)
-
 [![Follow](https://img.shields.io/github/followers/pranavvv44?label=Follow&style=social)](https://github.com/pranavvv44)
 
 - 📫 How to reach me **pranavsharma63066@gmail.com**
