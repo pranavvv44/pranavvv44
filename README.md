@@ -1,6 +1,6 @@
 <div align="center">
 
-<img [src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=200&section=header&text=DATA%20%26%20AI%20ENGINEERING&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38"](https://stock.adobe.com/search?k=data+analytics+background) />
+
 
 # Hi 👋, I'm Pranav
 
